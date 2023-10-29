@@ -165,6 +165,7 @@ NSID     {ID}("::"{ID})*
 "soundfile"   return SOUNDFILE;
 
 "attach"      return ATTACH;
+"minput"	  return MODULATE;
 
 "acos"        return ACOS;
 "asin"        return ASIN;
